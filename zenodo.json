@@ -1,0 +1,14 @@
+{
+  "title": "Modular Bell Geometry of Two Tangent Double Cones: Reproducibility Code and Tests",
+  "upload_type": "software",
+  "description": "Reproducibility code and tests for the modular Bell geometry of two tangent double cones in the free massless Majorana setting.",
+  "creators": [
+    {
+      "name": "Newton, Tony",
+      "affiliation": "Newton Astro Labs"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "doi": "10.5281/zenodo.22649540"
+}
